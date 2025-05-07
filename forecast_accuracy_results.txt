@@ -1,0 +1,93 @@
+Vinamilk Financial Forecast and Accuracy
+==============================================
+Accuracy Metrics (Test Predictions vs Actual, in Billions VND)
+----------------------------------------------------------
+Anchor Year: 2021
+Training Years: 2020, 2021
+Test Years: 2022, 2023, 2024
+Total Assets:
+  MAE: 11,063.88 Billions VND
+  MSE: 124,335,061.65 Billions VND^2
+  RMSE: 11,150.56 Billions VND
+  MAPE: 21.18%  Actual vs Predicted:
+    2022: Actual = 48,482.66, Predicted = 58,232.33 Billions VND
+    2023: Actual = 52,673.37, Predicted = 63,132.25 Billions VND
+    2024: Actual = 55,049.06, Predicted = 68,032.17 Billions VND
+
+Net Revenue:
+  MAE: 2,782.33 Billions VND
+  MSE: 7,888,154.75 Billions VND^2
+  RMSE: 2,808.59 Billions VND
+  MAPE: 4.58%  Actual vs Predicted:
+    2022: Actual = 59,956.25, Predicted = 62,202.04 Billions VND
+    2023: Actual = 60,368.92, Predicted = 63,484.92 Billions VND
+    2024: Actual = 61,782.61, Predicted = 64,767.80 Billions VND
+
+Profit After Tax:
+  MAE: 829.50 Billions VND
+  MSE: 889,976.36 Billions VND^2
+  RMSE: 943.39 Billions VND
+  MAPE: 9.37%  Actual vs Predicted:
+    2022: Actual = 8,577.58, Predicted = 10,029.34 Billions VND
+    2023: Actual = 9,019.35, Predicted = 9,426.14 Billions VND
+    2024: Actual = 9,452.89, Predicted = 8,822.95 Billions VND
+
+Anchor Year: 2022
+Training Years: 2020, 2021, 2022
+Test Years: 2023, 2024
+Total Assets:
+  MAE: 3,599.79 Billions VND
+  MSE: 21,756,925.62 Billions VND^2
+  RMSE: 4,664.43 Billions VND
+  MAPE: 6.57%  Actual vs Predicted:
+    2023: Actual = 52,673.37, Predicted = 53,306.95 Billions VND
+    2024: Actual = 55,049.06, Predicted = 48,483.06 Billions VND
+
+Net Revenue:
+  MAE: 1,080.30 Billions VND
+  MSE: 1,679,950.45 Billions VND^2
+  RMSE: 1,296.13 Billions VND
+  MAPE: 1.76%  Actual vs Predicted:
+    2023: Actual = 60,368.92, Predicted = 60,733.04 Billions VND
+    2024: Actual = 61,782.61, Predicted = 59,986.14 Billions VND
+
+Profit After Tax:
+  MAE: 1,034.41 Billions VND
+  MSE: 1,201,809.33 Billions VND^2
+  RMSE: 1,096.27 Billions VND
+  MAPE: 11.30%  Actual vs Predicted:
+    2023: Actual = 9,019.35, Predicted = 10,416.82 Billions VND
+    2024: Actual = 9,452.89, Predicted = 10,124.24 Billions VND
+
+Forecast for 2025-2027 (in Billions VND)
+----------------------------------
+Total Assets:
+  2025:
+    Forecast: 55,588.23 Billions VND
+    95% Confidence Interval: [48,970.63, 62,205.83] Billions VND
+  2026:
+    Forecast: 56,964.51 Billions VND
+    95% Confidence Interval: [50,346.91, 63,582.11] Billions VND
+  2027:
+    Forecast: 58,340.79 Billions VND
+    95% Confidence Interval: [51,723.18, 64,958.39] Billions VND
+Net Revenue:
+  2025:
+    Forecast: 62,104.21 Billions VND
+    95% Confidence Interval: [60,244.06, 63,964.36] Billions VND
+  2026:
+    Forecast: 62,701.13 Billions VND
+    95% Confidence Interval: [60,840.98, 64,561.29] Billions VND
+  2027:
+    Forecast: 63,298.06 Billions VND
+    95% Confidence Interval: [61,437.91, 65,158.21] Billions VND
+Profit After Tax:
+  2025:
+    Forecast: 9,520.62 Billions VND
+    95% Confidence Interval: [7,719.68, 11,321.56] Billions VND
+  2026:
+    Forecast: 9,520.62 Billions VND
+    95% Confidence Interval: [7,719.68, 11,321.56] Billions VND
+  2027:
+    Forecast: 9,520.62 Billions VND
+    95% Confidence Interval: [7,719.68, 11,321.56] Billions VND
